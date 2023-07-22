@@ -10,12 +10,10 @@
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli250&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eli250&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli250&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli250&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eli250&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli250&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
